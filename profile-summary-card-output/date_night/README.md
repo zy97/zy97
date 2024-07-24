@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/zy97/zy97/main/profile-summary-card-output/date_night/4-productive-time.svg)
-```
-
-    
